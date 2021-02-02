@@ -1,5 +1,5 @@
-import 'package:booking/main/utils/AppColors.dart';
-import 'package:booking/main/utils/AppConstant.dart';
+import 'package:qpp/main/utils/AppColors.dart';
+import 'package:qpp/main/utils/AppConstant.dart';
 import 'package:flutter/material.dart';
 import 'package:mobx/mobx.dart';
 import 'package:nb_utils/nb_utils.dart';

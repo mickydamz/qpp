@@ -1,7 +1,7 @@
 import 'dart:io';
 
 // import 'package:admob_flutter/admob_flutter.dart';
-import 'package:booking/main/store/AppStore.dart';
+import 'package:qpp/main/store/AppStore.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:clustering_google_maps/clustering_google_maps.dart';
 import 'package:flutter/foundation.dart';
@@ -11,9 +11,9 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:html/parser.dart';
 import 'package:intl/intl.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:booking/integrations/utils/common.dart';
-import 'package:booking/main.dart';
-import 'package:booking/main/model/ListModels.dart';
+import 'package:qpp/integrations/utils/common.dart';
+import 'package:qpp/main.dart';
+import 'package:qpp/main/model/ListModels.dart';
 
 import 'AppColors.dart';
 import 'AppConstant.dart';
