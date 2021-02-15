@@ -74,6 +74,8 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   assets:
+    - images/widgets/materialWidgets/mwLayoutWidgtes/MWListTile/
+    - images/LikeButton/image/
     - images/learner/
     - images/app/
     - assets/

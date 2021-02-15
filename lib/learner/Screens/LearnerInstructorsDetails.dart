@@ -80,7 +80,7 @@ class _LearnerInstructorsDetailsState extends State<LearnerInstructorsDetails> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 text("5.0", textColor: learner_textColorPrimary, fontSize: textSizeMedium, fontFamily: fontMedium),
-                text(learner_lbl_Ratting, textColor: learner_textColorSecondary, fontSize: textSizeMedium, fontFamily: fontMedium),
+                text(learner_lbl_Rating, textColor: learner_textColorSecondary, fontSize: textSizeMedium, fontFamily: fontMedium),
               ],
             ).center(),
             Column(

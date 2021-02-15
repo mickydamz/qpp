@@ -390,7 +390,7 @@ List<LearnerLectureModel> learnerGetLectureData() {
   List<LearnerLectureModel> list = List<LearnerLectureModel>();
   var content1 = LearnerLectureModel();
   content1.no = "1";
-  content1.title = "Introducation";
+  content1.title = "Introduction";
   content1.subtitle = "About this course and overview.";
   content1.type = "video";
   list.add(content1);
@@ -398,14 +398,14 @@ List<LearnerLectureModel> learnerGetLectureData() {
   var content2 = LearnerLectureModel();
   content2.no = "2";
   content2.title = "What is management?";
-  content2.subtitle = "Basics and introducation";
+  content2.subtitle = "Basics and introduction";
   content2.type = "Article";
   list.add(content2);
 
   var content3 = LearnerLectureModel();
   content3.no = "3";
   content3.title = "How does your decision effect your project?";
-  content3.subtitle = "Learner the most importanted asp..";
+  content3.subtitle = "Learner the most important asp..";
   content3.type = "video";
   list.add(content3);
 
@@ -417,8 +417,8 @@ List<ChatModel> getMessages() {
 
   ChatModel model1 = ChatModel('1', 'Hello Nimisha');
   ChatModel model2 = ChatModel('1', 'I am Revision Bot, here to help you study your ongoing courses.');
-  ChatModel model3 = ChatModel('1', 'select a course to begin Business Management Cloud Computing Moden Medicine');
-  ChatModel model4 = ChatModel('2', 'Modren Medicine');
+  ChatModel model3 = ChatModel('1', 'select a course to begin Business Management Cloud Computing Modern Medicine');
+  ChatModel model4 = ChatModel('2', 'Modern Medicine');
 
   list.add(model1);
   list.add(model2);

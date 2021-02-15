@@ -12,7 +12,7 @@ import 'package:qpp/main/utils/AppWidget.dart';
 import 'package:qpp/main/utils/flutter_rating_bar.dart';
 
 class LearnerModrenMedicine extends StatefulWidget {
-  static String tag = '/LearnerModrenMedicine';
+  static String tag = '/LearnerModernMedicine';
 
   @override
   _LearnerModrenMedicineState createState() => _LearnerModrenMedicineState();

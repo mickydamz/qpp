@@ -24,9 +24,9 @@ class _LearnerWalkThroughState extends State<LearnerWalkThrough> {
   int pageLength;
   var titles = ['Welcome', 'Select Course', 'Learn Topics'];
   var subTitles = [
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry.This is simply text ",
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry.This is simply text  ",
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry.This is simply text"
+    "This is the QP app ",
+    "Just select the course you are interested in ",
+    "Learn an array of topics at your own time."
   ];
 
   List<LearnerWalk> mList1;

@@ -1,4 +1,4 @@
-const learner_sample_long_text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
+const learner_sample_long_text = "This is the QP app";
 const learner_Get_Started = "Get Started";
 const learner_hint_email = "Email";
 const learner_hint_password = "Password";
@@ -8,7 +8,7 @@ const learner_sign_up_info = "By Pressing 'Join' you agree to our";
 const learner_hint_full_name = "Full Name";
 const learner_lbl_login_underlined = "<u>Login</u>";
 const learner_lbl_join = "Join";
-const learner_lbl_don_t_joined_yet = "Don\'t Joined Yet !";
+const learner_lbl_don_t_joined_yet = "Haven\'t Joined Yet !";
 const learner_txt_terms_condition = "Terms & Condition";
 
 const learner_lbl_featured = "Featured";
@@ -58,7 +58,7 @@ const learner_lbl_5_0 = "5.0";
 const learner_lbl_swipe_up_to_show_course_contents = "Swipe up to show course contents";
 const learner_lbl_hannah_tran = "Hannah Tran";
 
-const learner_lbl_modren_medicine = "Modren Medicine";
+const learner_lbl_modren_medicine = "Modern Medicine";
 const learner_lbl_Louisa_macGee = "Louisa macGee";
 const learner_lbl_Lessons = "Lessons";
 const learner_lbl_Reviews = "Reviews";
@@ -70,9 +70,9 @@ const learner_lbl_Bots = "Bots";
 const learner_lbl_Start_a_new_chat = "START A NEW CHAT";
 const learner_lbl_start = "Start";
 const learner_lbl_Follow = "Follow";
-const learner_lbl_Ratting = "RATTINGS";
+const learner_lbl_Rating = "RATINGS";
 const learner_lbl_Stud = "STUDENTS";
-const learner_lbl_Introducation = "Introducation";
+const learner_lbl_Introducation = "Introduction";
 const learner_lbl_Article = "Article";
-const learner_lbl_2K_Student = "2.8K STUNDENTS";
+const learner_lbl_2K_Student = "2.8K STUDENTS";
 const learner_36_Lectures = "36 LECTURES";

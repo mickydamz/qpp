@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:qpp/learner/Screens/LearnerChart.dart';
 import 'package:qpp/learner/Screens/LearnerChat.dart';
 import 'package:qpp/learner/Screens/LearnerHome.dart';
 import 'package:qpp/learner/Screens/LearnerProfile.dart';
@@ -8,6 +7,7 @@ import 'package:qpp/learner/utils/LearnerBottomNavigationBar.dart';
 import 'package:qpp/learner/utils/LearnerColors.dart';
 import 'package:qpp/learner/utils/LearnerImages.dart';
 import 'package:qpp/main/utils/AppWidget.dart';
+import 'package:qpp/learner/Screens/MWListTileScreen.dart';
 
 class LearnerDashboard extends StatefulWidget {
   static String tag = '/LearnerDashboard';
@@ -21,7 +21,7 @@ class _LearnerDashboardState extends State<LearnerDashboard> {
   var pages = [
     LearnerHome(),
     LearnerSearch(),
-    LearnerHome(),
+    MWListTileScreen(),
     LearnerChat(),
     LearnerProfile(),
   ];
